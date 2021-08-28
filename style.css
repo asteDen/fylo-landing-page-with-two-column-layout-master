@@ -99,6 +99,7 @@ nav a{
 .content p{
     font-weight: 400;
     font-size: 1em;
+    line-height: 25px;
 }
 .content .text{
     width: 23em;
@@ -340,6 +341,7 @@ nav a{
 .col-one-section-three p{
     font-size: 1em;
     max-width: 30em;
+    line-height: 25px;
 }
 .col-two-section-three{
     grid-column: 2/3;
