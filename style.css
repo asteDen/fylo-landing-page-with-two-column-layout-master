@@ -174,8 +174,8 @@ nav a{
     grid-row: 1/2;
     background-image: url(/images/bg-curve-desktop.svg);
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
+    background-size: contain;
+    width: 100vh;
     background-position: bottom;
     
 
